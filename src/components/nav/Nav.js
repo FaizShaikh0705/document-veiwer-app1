@@ -16,7 +16,7 @@ const Nav = () => {
           className="d-inline-block align-top"
           alt="React Bootstrap logo"
         />{' '}
-         Document-Viewer-App
+         Office-Mate
       </Navbar.Brand>
     </Container>
   </Navbar>
